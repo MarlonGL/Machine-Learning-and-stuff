@@ -1,0 +1,48 @@
+{
+    "DoodleJumper": {
+        "checkpoints": [
+            {
+                "steps": 8999990,
+                "file_path": "results\\JumperObs\\DoodleJumper\\DoodleJumper-8999990.onnx",
+                "reward": 64.00000381469727,
+                "creation_time": 1606176393.9842017
+            },
+            {
+                "steps": 9499983,
+                "file_path": "results\\JumperObs\\DoodleJumper\\DoodleJumper-9499983.onnx",
+                "reward": 84.61667156219482,
+                "creation_time": 1606177054.4083545
+            },
+            {
+                "steps": 9999999,
+                "file_path": "results\\JumperObs\\DoodleJumper\\DoodleJumper-9999999.onnx",
+                "reward": 62.61667033533255,
+                "creation_time": 1606177712.488203
+            },
+            {
+                "steps": 10499941,
+                "file_path": "results\\JumperObs\\DoodleJumper\\DoodleJumper-10499941.onnx",
+                "reward": 40.00000250339508,
+                "creation_time": 1606178409.5977025
+            },
+            {
+                "steps": 10931913,
+                "file_path": "results\\JumperObs\\DoodleJumper\\DoodleJumper-10931913.onnx",
+                "reward": null,
+                "creation_time": 1606178944.1389816
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10931913,
+            "file_path": "results\\JumperObs\\DoodleJumper.onnx",
+            "reward": null,
+            "creation_time": 1606178944.1389816
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}
